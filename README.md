@@ -1,7 +1,7 @@
 # JavaScript ToDo App
 This repo. has prepared a simple to-do app using Javascript programing language which is a good exercise for beginners.
 
-In this project, we create different functions for creating and removing different tasks and by using the local storage tasks will not be removed after closing the browser window.
+In this project, we create different functions for creating and removing different tasks and by using the local storage, tasks will not be removed after closing the browser window.
 
 
 
